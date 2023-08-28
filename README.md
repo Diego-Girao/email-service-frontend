@@ -8,7 +8,7 @@
 
 This repository contains a frontend project built using React JS and Chakra UI. This frontend project interacts with a Node.js API that enables the sending of registration confirmation emails to users, simulating a registration service or newsletter subscription.
 
-<!-- <img src=""/> -->
+![screenshot](https://github.com/Diego-Girao/email-service-frontend/assets/70491871/7c69cd1a-3bd6-4225-ad2e-3b687b6e7185)
 
 ## Features 🎯️
 
