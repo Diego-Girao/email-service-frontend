@@ -12,9 +12,9 @@ function App() {
 
 	const submit = () => {
 		mutate({
+			email,
 			firstName,
 			lastName,
-			email,
 		})
 	}
 
